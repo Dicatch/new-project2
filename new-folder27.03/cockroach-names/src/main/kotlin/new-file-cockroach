@@ -1,0 +1,4 @@
+fun main() {
+val num1 = 1
+println(num1)
+}
